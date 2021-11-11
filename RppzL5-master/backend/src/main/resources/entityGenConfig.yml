@@ -1,0 +1,7 @@
+jdbcSettings:
+  url: "jdbc:mysql://localhost/bank"
+  username: "root"
+  password: "mysqlpassword"
+  driverClassName: "com.mysql.jdbc.Driver"
+
+packageName: "com.customersservice.backend.models"
